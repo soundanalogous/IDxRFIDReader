@@ -8,7 +8,7 @@ An event is dispatched when a tag is read and also when the tag is removed from 
 Included in the library package in an example for using the reader with Arduino hardware serial as well as with software serial.
 
 Also included are examples for sending data from the reader to a computer using the Firmata protocol. IDxReader_Firmata_Example uses Firmata as a protocol to send data, and RFID_Firmata is a version of StandardFirmata that includes support for the IDxRFID Reader. For an Actionscript 3.0 example (using funnel - funnel.cc), see my [Funnel Examples repository](https://github.com/soundanalogous/Funnel-AS3-Examples/tree/master/Custom_Examples).
-For a javascript example, see [Arduino-JS](https://github.com/soundanalogous/Arduino-JS).
+For a javascript example, see [Breakout](https://github.com/soundanalogous/Breakout).
 
 To do:
 
